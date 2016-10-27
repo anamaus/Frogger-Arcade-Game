@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+}
+.score{
+padding: 10px 0;
+    width: 500px;
+   margin: 0 auto;
+    border: 2px solid deepskyblue;
+}
+#scoreText{
+    display: inline-block;
+}
+#players{
+    text-align: center;
+}
+
+
+.player{
+    display: inline-block;
+    /*margin-right: 20px;*/
+    cursor: pointer;
+}
